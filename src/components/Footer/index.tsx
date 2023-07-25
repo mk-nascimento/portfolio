@@ -21,10 +21,22 @@ export const Footer = (): JSX.Element => {
           />
           <Box css={{ marginLeft: '$2' }}>
             <Text type='heading4' color='grey5' css={{ marginBottom: '$2' }}>
-              Thank you! {/* <HandEffect /> */}
+              Sobre Mim! {/* <HandEffect /> */}
             </Text>
             <Text type='body1' color='grey2'>
-              Me encontre nas redes e vamos bater um papo
+              "Curioso nato, comecei desmontando brinquedos para saber como
+              funcionavam.
+              <br />
+              Avancei para o hardware no meu primeiro computador, que fui logo
+              desmontando, me aprofundando em hardware. <br />
+              Desenvolvi a curiosidade também pelo mundo de software e
+              desenvolvimento, e assim quis me tornar um desenvolvedor.
+              <br />
+              Como nem tudo é só conhecimento, nas horas livres gosto de jogar,
+              desde jogos simples até FPS."
+              <br />
+              <br />
+              Siga-me no LinkedIn e vamos expandir nossa rede!
             </Text>
           </Box>
         </Flex>
